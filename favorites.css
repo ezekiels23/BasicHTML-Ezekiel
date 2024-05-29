@@ -1,0 +1,37 @@
+body {
+    background-color: lightslategray;
+}
+
+h1{
+    color: gold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.one{
+    background-color: azure;
+    color: brown;
+    padding: 5px;
+}
+
+.two{
+    color: aqua;
+
+}
+
+#three {
+    color: darkblue;
+}
+
+h2 {
+    text-align: center;
+}
+
+ol{
+    margin-left: 600px;
+}
+
+img{
+    width: 500px;
+    height: 500px;
+}
